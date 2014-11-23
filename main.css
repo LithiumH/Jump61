@@ -1,0 +1,48 @@
+body {
+	background-color: #EBFFFF;
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+	font-weight: 400;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.container {
+	position: relative;
+	padding-top: 100px;
+	float: left;
+}
+
+.jumbatron h2, h3{
+	text-align: center;
+	margin: 0;
+}
+
+
+.board {
+	border-radius: 6px;
+	background-color: #CCFF99;
+	position: relative;
+	margin-top:20px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-right: 15px;
+}
+
+.row {
+	position: relative;
+	margin-bottom: 15px;
+	height: 90px;
+}
+
+.inputbox {
+	text-align: center;
+	position: relative;
+}
+
+img {
+	width: 90px;
+	height: 90px;
+	position: relative;
+	border-radius: 8px;
+}
